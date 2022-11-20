@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/FukuInTheCode/Bot-Discord/issues"
   },
-  "homepage": "https://github.com/FukuInTheCode/Bot-Discord#readme"
+  "homepage": "https://github.com/FukuInTheCode/Bot-Discord#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
 }
